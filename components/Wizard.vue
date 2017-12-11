@@ -31,7 +31,7 @@ export default {
 
   props: {
     steps: {},
-    finalStepLabel: {default: 'Save'},
+    finalStepLabel: {default: 'Finish'},
     onNext: {},
     onBack: {},
   },
